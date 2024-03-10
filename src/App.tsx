@@ -1,4 +1,5 @@
-import { BrowserRouter, Routes, Route, Link, NavLink, createBrowserRouter, createRoutesFromElements, RouterProvider } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, Link, NavLink, createHashRouter, createRoutesFromElements, RouterProvider } from 'react-router-dom'
+
 
 
 
@@ -14,7 +15,7 @@ import Contact from './pages/help/Contact'
 import NotfFound from './pages/NotfFound'
 
 
-const router = createBrowserRouter(
+const router = createHashRouter(
   createRoutesFromElements(
     <Route path='/' element={<RootLaout />}>
       <Route index element={<Home />} />
