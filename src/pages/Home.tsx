@@ -5,7 +5,7 @@ export default function Home() {
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident nam fuga eveniet laudantium beatae reprehenderit dolore blanditiis, optio praesentium aliquam omnis at error quae quas. Consequuntur quos eveniet magnam perferendis.</p>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident nam fuga eveniet laudantium beatae reprehenderit dolore blanditiis, optio praesentium aliquam omnis at error quae quas. Consequuntur quos eveniet magnam perferendis.</p>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident nam fuga eveniet laudantium beatae reprehenderit dolore blanditiis, optio praesentium aliquam omnis at error quae quas. Consequuntur quos eveniet magnam perferendis.</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident nam fuga eveniet laudantium beatae reprehenderit dolore blanditiis, optio praesentium aliquam omnis at error quae quas. Consequuntur quos eveniet magnam perferendis.</p>
+      <p>Lorem ipssum dolor sit amet consectetur adipisicing elit. Provident nam fuga eveniet laudantium beatae reprehenderit dolore blanditiis, optio praesentium aliquam omnis at error quae quas. Consequuntur quos eveniet magnam perferendis.</p>
     </div>
   )
 }
